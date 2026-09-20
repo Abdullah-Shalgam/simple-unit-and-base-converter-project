@@ -98,6 +98,18 @@ simple-unit-and-base-converter-project/
 
 ## 🚀 Getting Started
 
+### 📦 Quick Download (Pre-built Executable)
+
+If you want to test the application directly without installing Visual Studio or compiling source code:
+
+1. Click the button above (or navigate to the **[Releases](../../releases)** page).
+2. Download `Unit-Base-Converter-v1.0.0.zip`.
+3. Extract the ZIP archive and run `Simple Unit & Base Converter Project.exe`.
+
+---
+
+### 🛠️ Building From Source
+
 ### Prerequisites
 
 To build and run this application, make sure you have:
@@ -113,15 +125,12 @@ git clone https://github.com/Abdullah-Shalgam/simple-unit-and-base-converter-pro
 
 ```
 
-
 2. **Open the project**:
-* Double-click `Simple Unit & Base Converter Project.slnx` (or `.csproj`) to launch Visual Studio.
+* Double-click `Simple Unit & Base Converter Project.slnx` (or `.csproj`) to open it in Visual Studio.
 
 
 3. **Build & Run**:
 * Press `F5` or click **Start** in Visual Studio.
-
-
 
 ---
 
